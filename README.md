@@ -1,2 +1,2 @@
 # imageboard-server
-my readme
+my read
